@@ -1,0 +1,5 @@
+{
+  "name": "UFPI Digital ID",
+  "description": "A digital student identification prototype for UFPI featuring student authentication, document verification, payment simulation, and dynamic QR code generation.",
+  "requestFramePermissions": []
+}
